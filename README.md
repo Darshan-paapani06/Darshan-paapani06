@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/0c20d89f46444a2b5f5a19068d757b6df030b94a746be6ffca66d51a99418587/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e672e77656270)](https://Darshan-paapani06.io)
 <h1 align="center">Hi 👋, I'm DARSHAN GOWDA T S</h1>
 <h3 align="center">Code. Create. Transform.</h3>
-<img align= "right" alt="coding" width="400" src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align= "right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-paapani06&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-paapani06" /> </p>
 
