@@ -1,3 +1,4 @@
+![Profile Banner]("C:\Users\Anusha ts\Downloads\Black Minimal Business Personal Profile Linkedin Banner.png")
 [![MasterHead](https://www.canva.com/design/DAG9y_6KDy4/s4PYd4qAhWIjqhtDYQADtg/edit?utm_content=DAG9y_6KDy4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://Darshan-paapani06.io)
 <h1 align="center">Hi 👋, I'm DARSHAN GOWDA T S</h1>
 <h3 align="center">Code. Create. Transform.</h3>
