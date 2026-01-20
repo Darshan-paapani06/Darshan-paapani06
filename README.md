@@ -1,3 +1,9 @@
+<!-- Centered clickable banner -->
+<p align="center">
+  <a href="https://Darshan-paapani06.io" target="_blank">
+    <img src="C:\Users\Anusha ts\Downloads\Black Minimal Business Personal Profile Linkedin Banner.png" alt="Profile Banner" width="100%">
+  </a>
+</p>
 
 [![MasterHead](https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/)](https://Darshan-paapani06.io)
 <h1 align="center">Hi 👋, I'm DARSHAN GOWDA T S</h1>
