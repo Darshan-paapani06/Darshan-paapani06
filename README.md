@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/0c20d89f46444a2b5f5a19068d757b6df030b94a746be6ffca66d51a99418587/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e672e77656270)](https://Darshan-paapani06.io)
+[![MasterHead](https://www.canva.com/design/DAG9y_6KDy4/s4PYd4qAhWIjqhtDYQADtg/edit?utm_content=DAG9y_6KDy4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://Darshan-paapani06.io)
 <h1 align="center">Hi 👋, I'm DARSHAN GOWDA T S</h1>
 <h3 align="center">Code. Create. Transform.</h3>
 <img align= "right" alt="coding" width="400" src="https://camo.githubusercontent.com/73fe8a09642bc88c0f287fe43ce0f0b05bdf9d6cf474b0ccd178555385078816/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067">
