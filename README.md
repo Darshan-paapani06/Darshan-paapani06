@@ -8,7 +8,7 @@
 <!--[![MasterHead](https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/)](https://Darshan-paapani06.io)-->
 <h1 align="center">Hi 👋, I'm DARSHAN GOWDA T S</h1>
 <h3 align="center">Code. Create. Transform.</h3>
-<img align= "right" alt="coding" width="400" src="https://forums.pokemmo.com/uploads/monthly_2025_01/206Ani.gif.f21a2fc3b271321c941e82c7ee0c4604.gif">
+<img align= "right" alt="Peace" width="400" src="https://forums.pokemmo.com/uploads/monthly_2025_01/206Ani.gif.f21a2fc3b271321c941e82c7ee0c4604.gif">
 
 <!--<p align="left"> <img src="https://forums.pokemmo.com/uploads/monthly_2025_01/206Ani.gif.f21a2fc3b271321c941e82c7ee0c4604.gif" alt="darshan-paapani06" /> </p>-->
 
