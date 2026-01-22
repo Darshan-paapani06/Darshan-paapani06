@@ -10,7 +10,7 @@
 <h3 align="center">Code. Create. Transform.</h3>
 <img align= "right" alt="coding" width="400" src="https://forums.pokemmo.com/index.php?/profile/132971-cccx/">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-paapani06&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-paapani06" /> </p>
+<p align="left"> <img src="https://forums.pokemmo.com/uploads/monthly_2025_01/206Ani.gif.f21a2fc3b271321c941e82c7ee0c4604.gif" alt="darshan-paapani06" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@dpaapani1506" target="blank"><img src="https://img.shields.io/twitter/follow/@dpaapani1506?logo=twitter&style=for-the-badge" alt="@dpaapani1506" /></a> </p>
 
