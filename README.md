@@ -1,7 +1,7 @@
 <!-- Centered clickable banner -->
 <p align="center">
   <a href="https://Darshan-paapani06.io" target="_blank">
-    <img src="Black Minimal Business Personal Profile Linkedin Banner.png" alt="Profile Banner" width="100%">
+    <img src="DARSHAN PAAPANI.png" alt="Profile Banner" width="100%">
   </a>
 </p>
  
